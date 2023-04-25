@@ -3,7 +3,7 @@
 function App() {
   return (
 <div>
-  Hii Deepak asd!
+  Hii Deepak!
 </div>  );
 }
 
